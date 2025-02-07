@@ -14,3 +14,5 @@ fastapi==0.115.8
 uvicorn==0.34.0
 celery==5.4.0
 redis==5.2.1
+SQLAlchemy==2.0.38
+psycopg2-binary==2.9.10
